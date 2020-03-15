@@ -1,0 +1,29 @@
+
+new customer
+---------------------
+//*[a= 'New Customer']
+
+//input[@name='name']
+
+//input[@value='f'] 
+
+//input[@value='m']
+
+//input[@id='dob']
+
+//textarea[@name='addr']
+
+//input[@name='city']
+
+//input[@name='pinno']
+
+//input[@name='telephoneno']
+
+//input[@name='emailid']
+
+//input[@name='password']
+
+//input[@name='sub']
+
+//input[@name='res']
+//inpt[@name='state']
